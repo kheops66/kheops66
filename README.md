@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kheops66
-- 👀 I’m interested in .linux Administration.. Coding..
-- 🌱 I’m currently learning HTML CSS 
+- 👋 Hi, I’m Patrick LABARRE @kheops66
+- 👀 I’m interested in .linux Administration.. Coding..Ciso..Virtualisation
+- 🌱 I’m currently learning HTML CSS C ..C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
